@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/projects/exercise-big-data-big-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/exercise-big-data-big-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/exercise-keyword-ranking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/exercise-keyword-ranking/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-coalesce/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-coalesce/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-flatmap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-flatmap/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-join/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-join/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-map/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-map/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-pairrdd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-pairrdd/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-performance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-performance/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-readfile/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-readfile/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-reduce/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-reduce/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-tuple/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-rdd-tuple/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-dataframe/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-dataframe/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-datasets/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-datasets/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-date-formatting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-date-formatting/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-groupings-aggregations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-groupings-aggregations/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-in-memory-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-in-memory-data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-multiple-groupings/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-multiple-groupings/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-ordering/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-ordering/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-pivot-tables/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-pivot-tables/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-template-view/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-template-view/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-udf-spark-sql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-udf-spark-sql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-udf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projects/spark-sql-udf/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

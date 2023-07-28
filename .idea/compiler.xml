@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learningSpark (19)" />
+        <module name="learningSpark (18)" />
+        <module name="learningSpark (15)" />
+        <module name="learningSpark (14)" />
+        <module name="learningSpark (17)" />
+        <module name="learningSpark (16)" />
+        <module name="learningSpark (11)" />
+        <module name="learningSpark (22)" />
+        <module name="learningSpark (10)" />
+        <module name="learningSpark (21)" />
+        <module name="learningSpark (13)" />
+        <module name="learningSpark (12)" />
+        <module name="learningSpark (9)" />
+        <module name="learningSpark (20)" />
+        <module name="learningSpark (5)" />
+        <module name="learningSpark (6)" />
+        <module name="learningSpark (7)" />
+        <module name="learningSpark (8)" />
+        <module name="learningSpark (1)" />
+        <module name="learningSpark (2)" />
+        <module name="learningSpark (3)" />
+        <module name="learningSpark (4)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="learningSpark" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
